@@ -26,5 +26,3 @@ Preprocessing of the raw data set, NLP tasks such as Tokenization, Lemmatization
 
 **PROGRAMMING LANGUAGE:**
 Python with Google Colab
-
-** 
